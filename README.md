@@ -16,12 +16,9 @@ Here are some ideas to get you started:
 <h2> Hi there, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-
-### ⚙️ &nbsp;GitHub Analytics
-
 <p align="left">
 <a href="https://github.com/huongnhdh">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huongnhdh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huongnhdh&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huongnhdh&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huongnhdh&layout=compact&langs_count=8&theme=material-palenight"/> -->
 </a>
 </p>
